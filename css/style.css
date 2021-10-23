@@ -1,0 +1,55 @@
+.wraper-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.nav-li {
+  display: flex;
+}
+li {
+  margin-right: 48px;
+}
+.lastchild {
+  margin-right: 0;
+}
+/* section1 */
+.section-flex-box {
+  display: flex;
+  justify-content: space-around;
+}
+.left-block {
+  background-color: cadetblue;
+  max-width: 600px;
+  width: 100%;
+}
+.right-block {
+    max-width: 600px;
+    width: 100%;
+}
+.right-image {
+    width: 100%;
+}
+.title-block {
+  font-size: 78px;
+}
+.burger-bar {
+    font-size: 30px;
+    color: red;
+    display: none;
+}
+
+/* test styles responsive */
+/* .first-block {
+  width: 250px;
+  height: 250px;
+  background-color: blueviolet;
+}
+.second-block {
+  width: 250px;
+  height: 250px;
+  background-color: red;
+}
+.test-wraper {
+  display: flex;
+  justify-content: space-between;
+} */
